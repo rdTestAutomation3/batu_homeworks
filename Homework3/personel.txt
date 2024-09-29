@@ -1,0 +1,7 @@
+Personel:
+Ad: (String) Personelin adı
+Soyad: (String) Personelin soyadı
+Yas: (Integer) Personelin yaşı
+TelefonNumarasi: (String) Personelin telefon numarası
+Maas: (Integer) Personelin maaşı
+CalistigiAlan: (String) Personelin çalıştığı alan

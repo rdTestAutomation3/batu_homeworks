@@ -1,0 +1,35 @@
+Personeller:
+  - Ad: Ahmet
+    Soyad: Yılmaz
+    Yas: 30
+    TelefonNumarasi: 555-123-4567
+    Maas: 7500
+    CalistigiAlan: Bilgi Teknolojileri
+
+  - Ad: Ayşe
+    Soyad: Kara
+    Yas: 28
+    TelefonNumarasi: 555-234-5678
+    Maas: 6500
+    CalistigiAlan: Pazarlama
+
+  - Ad: Mehmet
+    Soyad: Demir
+    Yas: 35
+    TelefonNumarasi: 555-345-6789
+    Maas: 8000
+    CalistigiAlan: Muhasebe
+
+  - Ad: Seda
+    Soyad: Çelik
+    Yas: 26
+    TelefonNumarasi: 555-456-7890
+    Maas: 7000
+    CalistigiAlan: İnsan Kaynakları
+
+  - Ad: Ali
+    Soyad: Öztürk
+    Yas: 40
+    TelefonNumarasi: 555-567-8901
+    Maas: 9000
+    CalistigiAlan: Proje Yönetimi

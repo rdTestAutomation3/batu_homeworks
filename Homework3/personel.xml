@@ -1,0 +1,42 @@
+<Personeller>
+    <Personel>
+        <Ad>Ahmet</Ad>
+        <Soyad>Yılmaz</Soyad>
+        <Yas>30</Yas>
+        <TelefonNumarasi>555-123-4567</TelefonNumarasi>
+        <Maas>7500</Maas>
+        <CalistigiAlan>Bilgi Teknolojileri</CalistigiAlan>
+    </Personel>
+    <Personel>
+        <Ad>Ayşe</Ad>
+        <Soyad>Kara</Soyad>
+        <Yas>28</Yas>
+        <TelefonNumarasi>555-234-5678</TelefonNumarasi>
+        <Maas>6500</Maas>
+        <CalistigiAlan>Pazarlama</CalistigiAlan>
+    </Personel>
+    <Personel>
+        <Ad>Mehmet</Ad>
+        <Soyad>Demir</Soyad>
+        <Yas>35</Yas>
+        <TelefonNumarasi>555-345-6789</TelefonNumarasi>
+        <Maas>8000</Maas>
+        <CalistigiAlan>Muhasebe</CalistigiAlan>
+    </Personel>
+    <Personel>
+        <Ad>Seda</Ad>
+        <Soyad>Çelik</Soyad>
+        <Yas>26</Yas>
+        <TelefonNumarasi>555-456-7890</TelefonNumarasi>
+        <Maas>7000</Maas>
+        <CalistigiAlan>İnsan Kaynakları</CalistigiAlan>
+    </Personel>
+    <Personel>
+        <Ad>Ali</Ad>
+        <Soyad>Öztürk</Soyad>
+        <Yas>40</Yas>
+        <TelefonNumarasi>555-567-8901</TelefonNumarasi>
+        <Maas>9000</Maas>
+        <CalistigiAlan>Proje Yönetimi</CalistigiAlan>
+    </Personel>
+</Personeller>
